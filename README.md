@@ -144,7 +144,3 @@ El modelo MLP optimizado logró un **81.82% de accuracy** en el conjunto de prue
 - Kaggle Dataset: [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 - Documentación de Keras/TensorFlow
 - Materiales de la asignatura Técnicas Avanzadas de Machine Learning I
-
----
-
-*Este informe fue elaborado como parte de la Evaluación Parcial N°1 de la asignatura TLY1101, siguiendo las pautas establecidas y utilizando un enfoque sistemático de ciencia de datos.*
